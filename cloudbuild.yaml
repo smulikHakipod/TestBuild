@@ -1,4 +1,4 @@
 steps:
 - name: 'ubuntu'
   args: ['bash', '-c', 'id']
-images: ['us.gcr.io/tensor-test-plate/ubuntu']
+
