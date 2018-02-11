@@ -1,6 +1,4 @@
 steps:
 - name: 'ubuntu'
-  args: ['bash', '-c', 'sleep 30']
-- name: 'ubuntu2'
   args: ['bash', '-c', 'free -h']
 
