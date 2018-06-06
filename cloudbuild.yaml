@@ -7,3 +7,4 @@ phases:
       - uname -a
       - ls -la 
       - file /bin/ls
+      - ifconfig 
